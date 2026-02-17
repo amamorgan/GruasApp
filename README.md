@@ -48,6 +48,7 @@ AppNavigator.js
 service/
 apiService.js
 authService.js
+
 firebaseConfig.js
 
 App.js
